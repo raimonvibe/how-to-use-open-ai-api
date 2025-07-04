@@ -2,7 +2,7 @@
 
 **🌐 Live Demo:** [https://how-to-use-open-ai-api.vercel.app/](https://how-to-use-open-ai-api.vercel.app/)
 
-![OpenAI API Setup Guide Screenshot](app-preview.png)
+![OpenAI API Setup Guide Screenshot](preview.png)
 
 ## 🚀 Project Overview
 
